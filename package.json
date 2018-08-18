@@ -4,7 +4,10 @@
   "description": "Helper entities for usage in ember-cli Blueprint models",
   "main": "./lib",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "npm publish",
+    "postpublish": "git push origin master & git push origin --tags"
+
   },
   "author": "",
   "license": "Apache-2.0",
