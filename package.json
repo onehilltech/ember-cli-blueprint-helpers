@@ -1,0 +1,14 @@
+{
+  "name": "ember-cli-blueprint-helpers",
+  "version": "0.0.0",
+  "description": "Helper entities for usage in ember-cli Blueprint models",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "core-object": "^3.1.5"
+  }
+}
