@@ -106,9 +106,9 @@ balanced-match@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
 
-base-object@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/base-object/-/base-object-1.2.0.tgz#d45cad48546e1838a21a6637052429d7d170760f"
+base-object@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/base-object/-/base-object-1.2.1.tgz#47addce76f5361962934091b6f2590672f8e1963"
   dependencies:
     lodash "^4.17.10"
 
