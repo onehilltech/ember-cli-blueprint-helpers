@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-blueprint-helpers",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "Helper entities for usage in ember-cli Blueprint models",
   "main": "./lib",
   "scripts": {
